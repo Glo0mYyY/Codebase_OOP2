@@ -1,6 +1,7 @@
-#import Aufgabe1_Paket.addition
-#import Aufgabe1_Paket.subtraction
-import Paket
+import Paket.addition
+import Paket.subtraction
+#import Paket.subtraction
+#import Paket
 
-print(Paket.add(1, 2))
-print(Paket.subtract(3, 4))
+print(Paket.addition.add(1, 2))
+print(Paket.subtraction.subtract(3, 4))
