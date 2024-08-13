@@ -1,2 +1,2 @@
 # Ignore all cache folders
-**/pycache/
+**/__pycache__/
