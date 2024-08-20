@@ -1,5 +1,5 @@
 def squared(numbers):
-    filteredList = list (filter(lambda x: x % 2 == 0, numbers))
+    filteredList = filter(lambda x: x % 2 == 0, numbers)
     squares = map(lambda x: x**2, filteredList)
     return squares
 
