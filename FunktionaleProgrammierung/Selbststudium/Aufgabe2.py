@@ -1,5 +1,5 @@
 def uppercaseOnly(words):
-    uppercaseWords = filter(lambda x: x.isupper() == True, words)
+    uppercaseWords = filter(lambda x: x.isupper(), words)
     return uppercaseWords
 
 print(list(uppercaseOnly(["TEST","hELLO","ciao"])))
