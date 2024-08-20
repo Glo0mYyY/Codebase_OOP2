@@ -1,3 +1,4 @@
+# TODO Error handling, exeception zurückgeben
 def read_file(file_name):
     try:
         with open(file_name, 'r') as file:
