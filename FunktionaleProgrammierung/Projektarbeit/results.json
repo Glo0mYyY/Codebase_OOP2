@@ -1,1 +1,37 @@
-[{"score": 1, "attempts": 6}, {"score": 0, "attempts": 8}, {"score": 0, "attempts": 5}, {"score": 0, "attempts": 8}, {"score": 0, "attempts": 8}]
+[
+    {
+        "score": 1,
+        "attempts": 6
+    },
+    {
+        "score": 0,
+        "attempts": 8
+    },
+    {
+        "score": 0,
+        "attempts": 5
+    },
+    {
+        "score": 0,
+        "attempts": 8
+    },
+    {
+        "score": 0,
+        "attempts": 8
+    },
+    {
+        "score": 3,
+        "attempts": 4,
+        "difficulty": 2
+    },
+    {
+        "score": 2,
+        "attempts": 5,
+        "difficulty": 2
+    },
+    {
+        "score": 0,
+        "attempts": 6,
+        "difficulty": 2
+    }
+]

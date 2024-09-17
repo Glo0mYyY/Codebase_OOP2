@@ -2,7 +2,6 @@ from logic import check_guess, generate_random_number
 from storage import save_result, load_results
 import json
 
-
 class Game:
     def __init__(self, max_attempts=6):
         self.max_attempts = max_attempts
