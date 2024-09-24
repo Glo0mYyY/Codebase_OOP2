@@ -16,7 +16,7 @@ class Check_prime(unittest.TestCase):
         number = Number()
         isPrimeNumber = number.is_prime(6)
         return self.assertFalse(isPrimeNumber)
-
+    
 check_prime = Check_prime()
 print(check_prime.test_prime1())
 print(check_prime.test_prime2())
