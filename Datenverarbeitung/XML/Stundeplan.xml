@@ -1,0 +1,32 @@
+<Stundenplan>
+    <Stunde>
+        <Tag>Montag</Tag>
+        <Kursname>Mathematik</Kursname>
+        <Zeit>
+            <Startzeit>08:00</Startzeit>
+            <Endzeit>09:30</Endzeit>
+        </Zeit>
+        <Dozent>Dr. Müller</Dozent>
+        <Raum>101</Raum>
+    </Stunde>
+    <Stunde>
+        <Tag>Montag</Tag>
+        <Kursname>Informatik</Kursname>
+        <Zeit>
+            <Startzeit>10:00</Startzeit>
+            <Endzeit>11:30</Endzeit>
+        </Zeit>
+        <Dozent>Prof. Schmidt</Dozent>
+        <Raum>202</Raum>
+    </Stunde>
+    <Stunde>
+        <Tag>Dienstag</Tag>
+        <Kursname>Physik</Kursname>
+        <Zeit>
+            <Startzeit>08:00</Startzeit>
+            <Endzeit>09:30</Endzeit>
+        </Zeit>
+        <Dozent>Dr. Weber</Dozent>
+        <Raum>303</Raum>
+    </Stunde>
+</Stundenplan>

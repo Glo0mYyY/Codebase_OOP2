@@ -1,0 +1,12 @@
+<library>
+    <book>
+        <title>Python Programming</title>
+        <author>John Smith</author>
+        <year>2022</year>
+    </book>
+    <book>
+        <title>Web Development</title>
+        <author>Jane Doe</author>
+        <year>2020</year>
+    </book>
+</library>

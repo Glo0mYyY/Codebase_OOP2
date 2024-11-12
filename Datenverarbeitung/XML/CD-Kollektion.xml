@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDSammlung>
+    <CD>
+        <Titel>Thriller</Titel>
+        <Künstler>Michael Jackson</Künstler>
+        <Erscheinungsjahr>1982</Erscheinungsjahr>
+        <Genre>Pop</Genre>
+    </CD>
+    <CD>
+        <Titel>Back in Black</Titel>
+        <Künstler>AC/DC</Künstler>
+        <Erscheinungsjahr>1980</Erscheinungsjahr>
+        <Genre>Rock</Genre>
+    </CD>
+    <CD>
+        <Titel>The Dark Side of the Moon</Titel>
+        <Künstler>Pink Floyd</Künstler>
+        <Erscheinungsjahr>1973</Erscheinungsjahr>
+        <Genre>Progressive Rock</Genre>
+    </CD>
+</CDSammlung>
