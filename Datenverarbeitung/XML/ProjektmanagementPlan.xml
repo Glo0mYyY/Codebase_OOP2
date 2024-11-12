@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjektmanagementPlan>
+    <Projekte>
+        <Projekt>
+            <Projektname>Projekt A</Projektname>
+            <Beschreibung>Beschreibung des Projekts A</Beschreibung>
+            <Startdatum>2023-01-01</Startdatum>
+            <Enddatum>2023-12-31</Enddatum>
+            <Aufgaben>
+                <Aufgabe>
+                    <Titel>Aufgabe 1</Titel>
+                    <Beschreibung>Beschreibung der Aufgabe 1</Beschreibung>
+                    <Startdatum>2023-01-01</Startdatum>
+                    <Enddatum>2023-01-31</Enddatum>
+                    <Status>In Bearbeitung</Status>
+                    <Priorität>Hoch</Priorität>
+                    <Zuweisung>
+                        <TeammitgliedID>1</TeammitgliedID>
+                        <TeammitgliedID>2</TeammitgliedID>
+                    </Zuweisung>
+                </Aufgabe>
+            </Aufgaben>
+            <Meilensteine>
+                <Meilenstein>
+                    <Titel>Meilenstein 1</Titel>
+                    <Beschreibung>Beschreibung des Meilensteins 1</Beschreibung>
+                    <Fälligkeitsdatum>2023-06-30</Fälligkeitsdatum>
+                    <AbhängigeAufgaben>
+                        <AufgabeID>1</AufgabeID>
+                    </AbhängigeAufgaben>
+                </Meilenstein>
+            </Meilensteine>
+            <Teammitglieder>
+                <Teammitglied>
+                    <ID>1</ID>
+                    <Name>Max Mustermann</Name>
+                    <Rolle>Entwickler</Rolle>
+                    <Kontaktinformationen>
+                        <Telefonnummer>+49123456789</Telefonnummer>
+                        <Email>max.mustermann@example.com</Email>
+                    </Kontaktinformationen>
+                </Teammitglied>
+                <Teammitglied>
+                    <ID>2</ID>
+                    <Name>Erika Musterfrau</Name>
+                    <Rolle>Projektleiter</Rolle>
+                    <Kontaktinformationen>
+                        <Telefonnummer>+49198765432</Telefonnummer>
+                        <Email>erika.musterfrau@example.com</Email>
+                    </Kontaktinformationen>
+                </Teammitglied>
+            </Teammitglieder>
+        </Projekt>
+    </Projekte>
+</ProjektmanagementPlan>
