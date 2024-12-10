@@ -9,7 +9,7 @@ def text1():
 def text2():
     for i in range(5):
         print("Tschüss")
-        time.sleep(.8)
+        time.sleep(.5)
 
 
 thread1 = threading.Thread(target=text1)
