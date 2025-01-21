@@ -23,7 +23,7 @@ print(namen)
 
 # Summen und Durchschnitte berechnen
 summe_alter = df["Alter"].sum()
-durchschnitt_alter = df["Alter"].mean()
+durchschnitt_alter = df["Alter"].mean()aaaaaaaaaaaaa
 print("\nSumme des Alters:", summe_alter)
 print("Durchschnitt des Alters:", durchschnitt_alter)
 
