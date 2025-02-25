@@ -1,0 +1,19 @@
+{
+    "Tiere": [
+        {
+            "Name": "Bella",
+            "Art": "Hund",
+            "Alter": 5
+        },
+        {
+            "Name": "Milo",
+            "Art": "Katze",
+            "Alter": 3
+        },
+        {
+            "Name": "Charlie",
+            "Art": "Papagei",
+            "Alter": 2
+        }
+    ]
+}

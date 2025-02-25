@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Buecher>
+    <Buch>
+        <Titel>Der Prozess</Titel>
+        <Autor>Franz Kafka</Autor>
+        <Erscheinungsjahr>1925</Erscheinungsjahr>
+    </Buch>
+    <Buch>
+        <Titel>1984</Titel>
+        <Autor>George Orwell</Autor>
+        <Erscheinungsjahr>1949</Erscheinungsjahr>
+    </Buch>
+    <Buch>
+        <Titel>Faust</Titel>
+        <Autor>Johann Wolfgang von Goethe</Autor>
+        <Erscheinungsjahr>1808</Erscheinungsjahr>
+    </Buch>
+</Buecher>
